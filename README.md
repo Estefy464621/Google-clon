@@ -6,9 +6,9 @@ En este proyecto utilizamos Visual Studio Code.
 
 ### Elementos del proyecto
 <ul>
-  <il>Menú de navegación</il>
-  <il>Logo e input de búsqueda</il>
-  <il>Menpu de footer</il>
+  <il>1.Menú de navegación</il>
+  <il>2.Logo e input de búsqueda</il>
+  <il>3.Menú de footer</il>
 </ul>
 
 ### Vista previa
