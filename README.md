@@ -5,6 +5,7 @@ Clon de Google desarrollado en html.
 En este proyecto utilizamos Visual Studio Code.
 
 ### Elementos del proyecto
+
 <ul>
   <il>1.Menú de navegación</il>
   <il>2.Logo e input de búsqueda</il>
